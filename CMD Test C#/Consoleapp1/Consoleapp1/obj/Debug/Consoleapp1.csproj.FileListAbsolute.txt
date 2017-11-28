@@ -1,0 +1,6 @@
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Consoleapp1\Consoleapp1\bin\Debug\Consoleapp1.exe.config
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Consoleapp1\Consoleapp1\bin\Debug\Consoleapp1.exe
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Consoleapp1\Consoleapp1\bin\Debug\Consoleapp1.pdb
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Consoleapp1\Consoleapp1\obj\Debug\Consoleapp1.csprojResolveAssemblyReference.cache
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Consoleapp1\Consoleapp1\obj\Debug\Consoleapp1.exe
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Consoleapp1\Consoleapp1\obj\Debug\Consoleapp1.pdb

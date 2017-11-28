@@ -1,0 +1,6 @@
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Test\bin\Debug\Test.exe
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Test\bin\Debug\Test.pdb
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Test\obj\Debug\Test.exe
+C:\Users\Sparks\Desktop\C# Projects\Test\Test\Test\obj\Debug\Test.pdb
